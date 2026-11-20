@@ -1,8 +1,4 @@
-# Análisis II - Análisis Matemático II - Matemática 3 — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Ricardo Durán, Noemi Wolanski
+# Análisis II — Primer cuatrimestre de 2017
 
 ## Prácticas
 
